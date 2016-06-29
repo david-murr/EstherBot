@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "BOT": "Hi there!\nI’m the personal bot of Prof Murr.\n![murr](https://raw.githubusercontent.com/david-murr/MurrBot/master/img/esther.jpg)\nWant to know more about bots or learn about Prof Murr? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Murr](postback:learn_about_murr) %[One random fact!](postback:random_fact)",
+    "HELLO": "Do you want to tell Murr that you're talking to his bot? %[Tell him](postback:twitter)",
+    "TELL HIM": "Let's tweet @ Murr so he knows you're talking to his bot. Here's a tweet that's ready to go: %[Tweet Murr](https://twitter.com/intent/tweet?text=I'm%20chatting%20with%20@omniearth_murr%20via%20his%20bot.%20It's%20a%20little%20weird%20but%20you%20should%20try%20it.%20Go%20to%20https://polar-tor-86477.herokuapp.com)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, MurrBot is back."
 }
